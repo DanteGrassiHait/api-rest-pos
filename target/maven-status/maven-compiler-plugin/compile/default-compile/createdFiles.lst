@@ -1,0 +1,9 @@
+com\ersa\demo\dto\TarjetaDto$TarjetaDtoBuilder.class
+com\ersa\demo\service\TarjetaService.class
+com\ersa\demo\ApiPosApplication.class
+com\ersa\demo\controller\TarjetaController.class
+com\ersa\demo\entity\Tarjeta$TarjetaBuilder.class
+com\ersa\demo\dto\TarjetaDto.class
+com\ersa\demo\dto\OperacionDto$OperacionDtoBuilder.class
+com\ersa\demo\dto\OperacionDto.class
+com\ersa\demo\entity\Tarjeta.class
